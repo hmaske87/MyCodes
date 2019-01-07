@@ -20,7 +20,7 @@ def gradDesc(x0, alpha):
     return x_n, k, t
 
 x0=4
-alpha=0.1
+alpha=0.2
 minValue,k,t = gradDesc(x0,alpha)
 
         
